@@ -6,7 +6,7 @@
 
 For example, if the url is `https://0a6b0066040558299fa58a0f00cb007f.web-security-academy.net/`, you will launch the script using
 ```
-./otp2_bf.sh "0a6b0066040558299fa58a0f00cb007f"
+./otp1_bf.sh "0a6b0066040558299fa58a0f00cb007f"
 ```
 - When the script prompts for a successful 302 redirect response, go to Burp, find that response, Right-click and select Show response in browser.
 - Copy the link given by Burp.
