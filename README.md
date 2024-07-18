@@ -9,7 +9,7 @@ Since the purpose of the repository is to aid in solving PortSwigger Academy lab
 
 Moreover, in order to avoid wasting time trying multiple attempts, or even giving up on solving the lab, you should carefully read the `readme.txt` of each subdirectory, which are written with Github formatting. These scripts work and without them I could not have solved the labs that require the Professional version of BurpSuite, since the Intruder in the Community version is very slow, represents only a demo version of the original one and the attacks are time throttled. Depending on your hardware and yout Internet speed (mine where both quite poor, and yet it worked), you can greatly speed up the resolution for some labs.
 
-To use a script, read the instructions and do
+Before using a script, read the instructions and do
 ```
 chmod +x script.sh
 ```
