@@ -1,6 +1,6 @@
 # PortSwigger Academy
-This repository contains a collection of BASH scripts that I used to solve some PortSwigger Academy labs. In particular, some of the labs that require the Professional version of BurpSuite can also be solved with a work around. The result of how I did it is collected in this repository.
-Anyone who, just like me, only has the Community version of Burp and wants to participate in expanding and improving this project is very welcome.
+This repository contains a collection of BASH scripts that I used to solve some PortSwigger Academy labs. In particular, some of the labs that require the Professional version of BurpSuite can also be solved with a workaround. The result of how I did it is collected in this repository.
+Anyone who, just like me, only has the Community version of Burp and wants to participate in expanding and improving this little project is very welcome.
 
 The repository, just like PortSwigger's Academy, is divided by topics (currently only the "Authentication" topic is covered). In each of these are lab-specific subdirectories containing instructions, custom wordlists, and scripts.
 ***
