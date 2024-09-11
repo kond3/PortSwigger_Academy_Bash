@@ -109,5 +109,5 @@ for i in {1..400};do
 
 done
 
-echo -e "Sufficient credit reached!\n\nGood luck with your PortSwigger Academy journey. \n\nPlease consider starring this repo, bye! \nkond3, $(date +%d.%m.%Y)"
+echo -e "Sufficient credit reached!\n\nGood luck with your PortSwigger Academy journey. \n\nPlease consider starring this repo, bye! \nkond3, $(date +%d.%m.%Y) \n"
 exit 0
